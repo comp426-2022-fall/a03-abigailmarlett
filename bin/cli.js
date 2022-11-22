@@ -8,3 +8,4 @@ let sides = args.sides;
 let dice = args.dice;
 let rolls = args.rolls;
 
+console.log(JSON.stringify(roll(sides, dice, rolls)))
