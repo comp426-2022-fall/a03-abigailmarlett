@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/comp426-2022-fall/a03-abigailmarlett#readme",
   "dependencies": {
-    
-    "mathjs": "^11.4.0"
+    "mathjs": "^11.4.0",
+    "minimist": "^1.2.7"
   }
 }
